@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d755c2b7.css",
+    "main.js": "/static/js/main.be415c31.js",
+    "static/media/robo.webp": "/static/media/robo.90a71d8e658a44f913ff.webp",
+    "static/media/seya.jpg": "/static/media/seya.b362cb80fdd952188173.jpg",
+    "static/media/yoda2.jpeg": "/static/media/yoda2.f881471dea0bad76451f.jpeg",
+    "static/media/taubate.jpg": "/static/media/taubate.75c940b4f1488296dc69.jpg",
+    "static/media/f40.jpg": "/static/media/f40.f9d4ac8e485dfa44eaf6.jpg",
+    "static/media/poze.webp": "/static/media/poze.79615398b3afde01b6d3.webp",
+    "static/media/doutor.webp": "/static/media/doutor.c080b02c7c2763ae5afe.webp",
+    "static/media/yoda1.webp": "/static/media/yoda1.0e40cc1bea184eec21ec.webp",
+    "static/media/academia.webp": "/static/media/academia.c8667d632ad5de12d461.webp",
+    "static/media/bart.jpg": "/static/media/bart.b8e06e572435f2939a51.jpg",
+    "static/media/Logo.PNG": "/static/media/Logo.d08d17c8d2f02fecbaf6.PNG",
+    "static/media/mario.jpg": "/static/media/mario.d6e854073d840c58ae3d.jpg",
+    "static/media/pao.jpg": "/static/media/pao.59ba17012c5b75d89a58.jpg",
+    "static/media/chimb.jpeg": "/static/media/chimb.1d2635b88468d3fbf47c.jpeg",
+    "static/media/news.webp": "/static/media/news.a3ab499a01c80fb51f23.webp",
+    "static/media/dianho.jfif": "/static/media/dianho.0cb4503acfa5d01ee1d5.jfif",
+    "index.html": "/index.html",
+    "main.d755c2b7.css.map": "/static/css/main.d755c2b7.css.map",
+    "main.be415c31.js.map": "/static/js/main.be415c31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d755c2b7.css",
+    "static/js/main.be415c31.js"
+  ]
+}
